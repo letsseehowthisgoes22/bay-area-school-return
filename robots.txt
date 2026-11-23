@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://letsseehowthisgoes22.github.io/bay-area-school-return/sitemap.xml
